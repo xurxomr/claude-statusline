@@ -1,0 +1,17 @@
+# Backups made by install.js
+*.bak-*
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Local debugging output (see CC_STATUS_DUMP)
+*.log
+dump*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
